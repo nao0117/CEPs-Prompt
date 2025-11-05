@@ -1,0 +1,1 @@
+カップヌードル　AND NOT (キャンペーン OR プレゼント OR PR OR フォロー) AND NOT (posttype:IMAGE OR posttype:LINK OR posttype:VIDEO) AND NOT (is:quote_tweet OR is:comment) AND sentiment:POSITIVE
